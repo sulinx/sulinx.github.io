@@ -176,11 +176,7 @@ $$
 
 ## 视频
 
-<video controls="controls" src="assets/formatting_elements-20210607225733-o1keasx.mp4" data-src="assets/formatting_elements-20210607213508-y2r3y55-20210608113914-q11ou4j.mp4" style="width: 640px; height: 327px;"></video>
-
 ## 音频
-
-<audio controls="controls" src="assets/record1623120470117-20210608104750-2thv5m5.wav" data-src="assets/record1623077643753-20210607225403-7cg1jkq-20210608113713-4eddn56.wav"></audio>
 
 ## 脑图
 
